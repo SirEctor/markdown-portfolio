@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![A picture of the octocat saying how it's not an octocat - philosophy!](https://octodex.github.com/notocat/)
